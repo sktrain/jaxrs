@@ -1,1 +1,3 @@
 # jaxrs
+
+Materialien zum Seminar
